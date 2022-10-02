@@ -1,24 +1,9 @@
-# README
+To setup the project 
+- After fetching the project from the gitub, run bundle install to set all the dependencies.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+- After that fetch the api collection using the postman collection link ("https://www.getpostman.com/collections/e81d4e1e00e10b80d38d ").
 
-Things you may want to cover:
+- For fetching data i've created services for each operations index.rb and show.rb respectively.
 
-* Ruby version
+- You might need to create a free account for the api key for that refer to this https://developer.marvel.com/docs and For authentication refer https://developer.marvel.com/documentation/authorization.
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
